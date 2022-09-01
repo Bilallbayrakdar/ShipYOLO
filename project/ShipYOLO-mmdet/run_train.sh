@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python tools/train.py configs/yolo/shipyolo_v2.py

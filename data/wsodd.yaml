@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ./ShipYOLO/datasets/WSODD/train.txt
+val: ./ShipYOLO/datasets/WSODD/test.txt
+test: ./ShipYOLO/datasets/WSODD/test.txt
+
+# number of classes
+nc: 14
+
+# class names
+names: ['boat', 'ship', 'ball', 'bridge', 'rock', 'person', 'rubbish', 'mast', 'buoy', 'platform', 'harbor', 'tree', 'grass', 'animal']  

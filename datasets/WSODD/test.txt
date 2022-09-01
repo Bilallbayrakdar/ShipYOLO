@@ -1,0 +1,2 @@
+D:\code\program-myself\ShipYOLO\datasets\WSODD\images\3.jpg
+D:\code\program-myself\ShipYOLO\datasets\WSODD\images\4.jpg

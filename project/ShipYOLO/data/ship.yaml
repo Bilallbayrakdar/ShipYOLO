@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /home/featurize/data/VOCdevkit/VOC2007/train.txt  # 118k images
+val: /home/featurize/data/VOCdevkit/VOC2007/test.txt  # 5k images
+test: /home/featurize/data/VOCdevkit/VOC2007/test.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']
